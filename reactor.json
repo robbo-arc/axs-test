@@ -1,0 +1,12 @@
+{
+  "repoType": "github",
+  "repoDetails": {
+    "login": "robbo-arc",
+    "repo": "axs-test",
+    "branch": "master"
+  },
+  "name": "AXS test",
+  "description": "AXIE testing",
+  "version": "1.0.0",
+  "projectId": 1030
+}
